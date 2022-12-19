@@ -1,0 +1,114 @@
+[
+  {
+    "type": "frontend",
+    "image": "personal.jpg",
+    "title": "My personal website",
+    "subtitle": "This website 😅",
+    "images": [
+      { "image": "personal1.jpg", "title": "" },
+      { "image": "personal2.png", "title": "" },
+      { "image": "personal3.png", "title": "" }
+    ],
+    "describtion": "This is the fourth iteration of my personal portfolio website, the goal was to make it simple yet attractive and attention seeking.",
+    "tags": ["Vue 3", "Vuetify", "Vite"]
+  },
+  {
+    "type": "frontend",
+    "image": "forum.png",
+    "title": "Vue Forums",
+    "subtitle": "⚡ Firebase and Vue",
+    "images": [
+      { "image": "forum1.png", "title": "Home" },
+      { "image": "forum2.png", "title": "Profile Page", "cover": false },
+      { "image": "forum3.png", "title": "" },
+      { "image": "forum4.png", "title": "Thread" }
+    ],
+    "describtion": "The first vite project i make, i had fun working with firebase for the first time as im used to build the database + backend by myself. A project i started while i was serving in the military, and working on it during the 7 day holidays for a year.",
+    "tags": ["Vue 3", "Vite", "Bootstrap", "Firebase"],
+    "links": [
+      { "text": "Github Repo", "icon": "fab fa-github", "link": "https://github.com/ItsMos/vue-forum" },
+      { "text": "Visit", "icon": "fa-globe-americas", "link": "https://ItsMos.github.io/vue-forum" }
+    ]
+  },
+  {
+    "type": "fullstack",
+    "image": "ucp.png",
+    "title": "User Control Panel For Liberty City RP",
+    "subtitle": "Vue + Node.js + mongoDB",
+    "images": [
+      { "image": "ucp1.png", "title": "Home and news section" },
+      { "image": "ucp2.png", "title": "Register page", "cover": false },
+      { "image": "ucp3.png", "title": "New player quiz" },
+      { "image": "ucp4.png", "title": "Admin panel"},
+      { "image": "ucp5.png", "title": "Admin player search"},
+      { "image": "ucp6.png", "title": "Review applications page"}
+    ],
+    "describtion": "Intented to be used by thousands of roleplay players community of gta v players, the user control panel acts as a dashboard to create new characters or display your in game characters as well as other functions also lets admins provide support to players. Database was shared by the game and the web app.",
+    "tags": ["Vue", "Webpack", "Bootstrap", "Node.js", "Express.js", "MongoDB"]
+  },
+  {
+    "type": "frontend",
+    "image": "travel-vue.png",
+    "title": "Travel-Vue",
+    "subtitle": "A Vue.js template",
+    "images": [
+      { "image": "travel-vue1.png", "title": "First slide" },
+      { "image": "travel-vue2.png", "title": "Second slide" },
+      { "image": "travel-vue3.png", "title": "A different slide" }
+    ],
+    "describtion": "Inspired by Nandan Rohman on Behance, this landing page is best suited for a travel website where it can showcase different distinations.",
+    "tags": ["Vue 3", "Vite", "Sass"],
+    "links": [
+      { "text": "View", "icon": "fa-globe-americas", "link": "https://itsmos.github.io/travel-website-vue" },
+      { "text": "Github Repo", "icon": "fab fa-github", "link": "https://github.com/ItsMos/travel-website-vue" }
+    ]
+  },
+  {
+    "type": "frontend",
+    "image": "ntc.jpg",
+    "title": "NewTrainers' Website",
+    "subtitle": "Designed a landing page for training center",
+    "images": [
+      { "image": "ntc1.png", "title": "Header" },
+      { "image": "ntc2.png" },
+      { "image": "ntc3.png", "title": "Upcoming events calendar" }
+    ],
+    "describtion": "2017 Project, designed a landing page for a training center New Trainers.",
+    "tags": ["Jquery"]
+  },
+  {
+    "type": "codepen",
+    "image": "slide-in-menu.png",
+    "title": "CSS Slide In Menu",
+    "subtitle": "No JS 200 ♥ on codepen",
+    "url": "https://codepen.io/pro-mos/pen/JdydRq"
+  },
+  {
+    "type": "codepen",
+    "image": "pomodoroclock.png",
+    "title": "Pomodoro Clock",
+    "subtitle": "Freecodecamp assignment",
+    "url": "https://codepen.io/pro-mos/pen/wzJVmW"
+  },
+  {
+    "type": "codepen",
+    "image": "wiki-search.png",
+    "title": "Wikipedia Search",
+    "subtitle": "Freecodecamp assignment",
+    "url": "https://codepen.io/pro-mos/details/oLydQo"
+  },
+  {
+    "type": "codepen",
+    "image": "simon-game.png",
+    "title": "Simon Says",
+    "subtitle": "Freecodecamp assignment",
+    "url": "https://codepen.io/pro-mos/pen/yMOggQ"
+  },
+  {
+    "type": "codepen",
+    "image": "weatherapp.png",
+    "title": "Weather Dashboard",
+    "subtitle": "Freecodecamp assignment",
+    "url": "https://codepen.io/pro-mos/pen/WxJpgb"
+  }
+]
