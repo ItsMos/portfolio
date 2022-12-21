@@ -32,8 +32,7 @@
 .headshot {
   background-image: url(/src/assets/img/headshot.jpg);
   background-repeat: no-repeat;
-  background-position: 50%;
-  background-size: 180%;
+  background-size: 100%;
   width: 280px;
   height: 280px;
   border-radius: 50%;
