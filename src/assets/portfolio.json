@@ -1,6 +1,24 @@
 [
   {
     "type": "frontend",
+    "image": "mushor.jpg",
+    "title": "Mushor.com",
+    "subtitle": "Ecommerce business",
+    "images": [
+      { "image": "mushor.jpg", "title": "" },
+      { "image": "mushor2.jpg", "title": "Products List" },
+      { "image": "mushor3.jpg", "title": "Login" },
+      { "image": "mushor4.jpg", "title": "Product Page" },
+      { "image": "mushor5.jpg", "title": "Shopping Cart" }
+    ],
+    "describtion": "Almost every page fetchs data from an API for high customizations based on owner's need. This website has custom ecommerce features which is controlled by a seperate dashboard.",
+    "tags": ["Vue 3", "Vuetify", "Vite"],
+    "links": [
+      { "text": "Demo", "icon": "fa-globe-americas", "link": "http://serene-elf-8fb433.netlify.app/" }
+    ]
+  },
+  {
+    "type": "frontend",
     "image": "personal.jpg",
     "title": "My personal website",
     "subtitle": "This website 😅",
@@ -9,7 +27,7 @@
       { "image": "personal2.png", "title": "" },
       { "image": "personal3.png", "title": "" }
     ],
-    "describtion": "This is the fourth iteration of my personal portfolio website, the goal was to make it simple yet attractive and attention seeking.",
+    "describtion": "This is the fourth iteration of my personal portfolio website, the goal was to make it simple yet attractive and attention grabbing.",
     "tags": ["Vue 3", "Vuetify", "Vite"]
   },
   {
