@@ -5,6 +5,7 @@
     "title": "Mushor.com",
     "subtitle": "Ecommerce business",
     "images": [
+
       { "image": "mushor.jpg", "title": "" },
       { "image": "mushor2.jpg", "title": "Products List" },
       { "image": "mushor3.jpg", "title": "Login" },
@@ -46,6 +47,23 @@
     "links": [
       { "text": "Github Repo", "icon": "fab fa-github", "link": "https://github.com/ItsMos/vue-forum" },
       { "text": "Visit", "icon": "fa-globe-americas", "link": "https://ItsMos.github.io/vue-forum" }
+    ]
+  },
+  {
+    "type": "frontend",
+    "image": "aplus.jpg",
+    "title": "A Plus Plumbing",
+    "subtitle": "Static website",
+    "images": [
+      { "image": "aplus2.jpg", "title": "Home Banner/Slider" },
+      { "image": "aplus3.jpg", "title": "Landing Page", "cover": false },
+      { "image": "aplus4.jpg", "title": "Services", "cover": false },
+      { "image": "aplus5.jpg", "title": "Contact Us", "cover": false }
+    ],
+    "describtion": "Created a static site based on the UI given by their designer. Replacing their old site.",
+    "tags": ["Bootstrap", "Jquery"],
+    "links": [
+      { "text": "View", "icon": "fa-globe-americas", "link": "https://www.aplusplumbingprofessionals.com" }
     ]
   },
   {

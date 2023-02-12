@@ -151,15 +151,17 @@ const languages = [
 ]
 
 const tools = [
-  'Vuetify',
-  'Vue, Vue Router, Vuex',
-  'CSS 3, Sass',
+  'HTML5, CSS3',
+  'Sass',
+  'Vuetify, PrimeVue, Bootstrap, Tailwind',
+  'Vue, Pinia, Vue Router',
   'Vite.js, Webpack',
-  'Node.js, express.js',
+  'Node.js, Express.js',
   'MongoDB, Mongoose'
 ]
 
 const expierences = [
+  ['2023', 'Freelance Frontend Developer', 'Mushor.com'],
   ['2021', 'Freelance Frontend Developer', 'aplusplumbingpros.com'],
   ['2020', 'Fullstack Developer', 'Liberty City Roleplay project'],
   ['2017', 'CSS Messenger Bot', 'Winner of Facebook Circles (best student)']

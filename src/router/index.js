@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '@/views/Home.vue'
+import NotFound from '@/views/404.vue'
 
 const routes = [
   {
@@ -21,7 +22,8 @@ const routes = [
     name: 'Contact',
     path: '/contact',
     component: () => import('@/views/Contact.vue')
-  }
+  },
+  { path: '/:pathMatch(.*)*', name: '404', component: NotFound }
 ]
 
 export default createRouter({
