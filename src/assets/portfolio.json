@@ -15,7 +15,7 @@
     "describtion": "Almost every page fetchs data from an API for high customizations based on owner's need. This website has custom ecommerce features which is controlled by a seperate dashboard.",
     "tags": ["Vue 3", "Vuetify", "Vite"],
     "links": [
-      { "text": "Demo", "icon": "fa-globe-americas", "link": "http://serene-elf-8fb433.netlify.app/" }
+      { "text": "Visit", "icon": "fa-globe-americas", "link": "https://mushor.com/" }
     ]
   },
   {
