@@ -25,7 +25,7 @@
     </v-row>
     <v-divider class="my-10" />
 
-    <v-btn class="mb-10" variant="flat" prepend-icon="far fa-file-lines" size="large" rounded="0" href="/mostafa_resume.pdf" download>
+    <v-btn class="mb-10" variant="flat" prepend-icon="far fa-file-lines" size="large" rounded="0" href="/Mostafa_Syam.pdf" download>
       Download CV
     </v-btn>
 

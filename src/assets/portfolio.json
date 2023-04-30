@@ -1,11 +1,24 @@
 [
   {
+    "type": "fullstack",
+    "image": "dreamsinterpreter.png",
+    "title": "AI Dreams Interpreter",
+    "subtitle": "Using AI to interpret people's dreams ☁",
+    "images": [
+      { "image": "dreamsinterpreter2.png", "title": "" }
+    ],
+    "describtion": "Use AI to interpret your dreams and gives you insights what it could mean that dream you had last night. Using OpenAI's API.",
+    "tags": ["Nuxt.js", "Vue.js", "TypeScript", "TailwindCSS", "OpenAI"],
+    "links": [
+      { "text": "Visit", "icon": "fa-globe-americas", "link": "http://dreams-interpreter.vercel.app" }
+    ]
+  },
+  {
     "type": "frontend",
     "image": "mushor.jpg",
     "title": "Mushor.com",
     "subtitle": "Ecommerce business",
     "images": [
-
       { "image": "mushor.jpg", "title": "" },
       { "image": "mushor2.jpg", "title": "Products List" },
       { "image": "mushor3.jpg", "title": "Login" },
